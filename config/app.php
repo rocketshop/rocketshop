@@ -168,6 +168,7 @@ return [
          */
         Laravel\Tinker\TinkerServiceProvider::class,  
         Rocket\Providers\RocketServiceProvider::class,  
+        Rocket\Engine\EngineServiceProvider::class,  
 
         /*
          * Application Service Providers...
